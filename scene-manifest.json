@@ -2930,5 +2930,200 @@
       1249
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0152",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      22,
+      23
+    ],
+    "text": "“Hurry,” said Annie. “It’ll take just a second,” said Jack. “Hold this.” He handed Annie the flashlight.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0152.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      12,
+      10,
+      303,
+      302
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0153",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "He tried to lift a helmet from a shelf. It was too heavy.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0153.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      328,
+      10,
+      618,
+      302
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0154",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "He bent over and dragged the helmet over his head. The visor slammed shut.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0154.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      644,
+      10,
+      933,
+      302
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0155",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "Oh, forget it. It was worse than having a five-year-old on your head. More like having a ten-year-old on your head.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0155.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      959,
+      10,
+      1250,
+      302
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0156",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "Not only could Jack not lift his head, he couldn’t see anything, either. “Jack!” Annie’s voice sounded far away. “The voices are getting closer!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0156.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      12,
+      327,
+      303,
+      610
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0157",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "“Turn off the flashlight!” Jack’s voice echoed inside the metal chamber.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0157.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      329,
+      327,
+      618,
+      610
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0158",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      30,
+      31
+    ],
+    "text": "He struggled to get the helmet off. Suddenly he lost his balance and went crashing into other pieces of armor.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0158.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      645,
+      327,
+      933,
+      610
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0159",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      32,
+      33
+    ],
+    "text": "The metal plates and weapons clattered to the floor. Jack lay on the floor in the dark.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0159.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      960,
+      327,
+      1248,
+      610
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0160",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      34
+    ],
+    "text": "He tried to get up. But his head was too heavy.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0160.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      15,
+      636,
+      303,
+      917
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0161",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      35,
+      36
+    ],
+    "text": "He heard deep voices. Someone grabbed him by the arm. The next thing he knew, his helmet was yanked off. He was staring into the blazing light of a fiery torch.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0161.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      329,
+      636,
+      619,
+      917
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "mth02-scene-0001",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Jack couldn’t sleep. He put his glasses on. He looked at the clock. 5:30.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0001.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      11,
+      11,
+      296,
+      299
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0002",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      3,
+      4
+    ],
+    "text": "Too early to get up. Yesterday so many strange things had happened. Now he was trying to figure them out.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0002.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      325,
+      11,
+      609,
+      299
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0003",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "He turned on the light. He picked up his notebook. He looked at the list he’d made before going to bed.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0003.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      11,
+      923,
+      299
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0004",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "Jack pushed his glasses into place. Who was going to believe any of this?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0004.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      954,
+      11,
+      1239,
+      299
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0005",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "Not his mom. Or his dad. Or his third-grade teacher, Ms. Watkins. Only his seven-year-old sister, Annie. She’d gone with him to the time of the dinosaurs.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0005.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      11,
+      329,
+      296,
+      614
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0006",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "text": "“Can’t you sleep?” It was Annie, standing in his doorway.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0006.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      325,
+      329,
+      610,
+      614
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0007",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "“Nope,” said Jack. “Me neither,” said Annie. “What are you doing?”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0007.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      329,
+      924,
+      614
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0008",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "She walked over to Jack and looked at his notebook. She read the list.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0008.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      954,
+      329,
+      1239,
+      614
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0009",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "“Aren’t you going to write about the gold medal?” she asked.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0009.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      11,
+      644,
+      296,
+      918
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0010",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15,
+      16
+    ],
+    "text": "“You mean the gold medallion,” said Jack. He picked up his pencil and wrote: “Aren’t you going to put the letter M on the medal?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0010.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      326,
+      644,
+      610,
+      918
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0011",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "“Medallion,” said Jack. “Not medal.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0011.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      644,
+      924,
+      918
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0012",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "He added an M: “Aren’t you going to write about the magic person?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0012.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      954,
+      644,
+      1239,
+      918
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0013",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "“We don’t know for sure if there is a magic person,” said Jack. “Well, someone built the tree house in the woods. Someone put the books in it. Someone lost a gold medal in dinosaur time.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0013.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      11,
+      947,
+      296,
+      1247
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0014",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "“Medallion!” said Jack for the third time. “And I’m just writing the facts. The stuff we know for sure.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0014.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      326,
+      947,
+      610,
+      1247
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0015",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“Let’s go back to the tree house right now,” said Annie. “And find out if the magic person is a fact.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0015.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      640,
+      947,
+      923,
+      1247
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0016",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "“Are you nuts?” said Jack. “The sun’s not even up yet.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0016.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      954,
+      947,
+      1239,
+      1247
+    ],
+    "review": "Pending visual review before deployment"
+  }
+]

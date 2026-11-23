@@ -2621,5 +2621,314 @@
       887
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0136",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "“Come on!” cried Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0136.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      9,
+      12,
+      276,
+      305
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0137",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      2,
+      3
+    ],
+    "text": "Jack raced behind her. Were they being followed?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0137.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      301,
+      10,
+      559,
+      305
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0138",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "“Here! Quick!” Annie dashed toward a door off the hallway. She pushed the door open. The two of them stumbled into a dark, cold room. The door creaked shut behind them.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0138.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      583,
+      10,
+      868,
+      305
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0139",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "“Give me the flashlight,” said Annie. Jack handed it to her, and she switched it on.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0139.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      893,
+      9,
+      1236,
+      305
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0140",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "Yikes! A row of knights right in front of them!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0140.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      9,
+      329,
+      301,
+      601
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0141",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      7,
+      8
+    ],
+    "text": "Annie flicked off the light. Silence.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0141.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      329,
+      606,
+      601
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0142",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      9,
+      10
+    ],
+    "text": "“They aren’t moving,” Jack whispered. Annie turned the light back on.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0142.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      631,
+      329,
+      909,
+      601
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0143",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      11,
+      12
+    ],
+    "text": "“They’re just suits,” Jack said. “Without heads,” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0143.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      933,
+      329,
+      1237,
+      601
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0144",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "“Let me have the flashlight a second,” said Jack. “So I can look in the book.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0144.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      8,
+      625,
+      302,
+      883
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0145",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      14
+    ],
+    "text": "Annie handed him the flashlight. He pulled out the castle book. He flipped through the pages until he found what he was looking for.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0145.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      327,
+      625,
+      606,
+      883
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0146",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "Jack put the book away. “It’s called the armory,” he said. “It’s where armor and weapons are stored.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0146.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      631,
+      625,
+      909,
+      883
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0147",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "text": "He shined the flashlight around the room. “Oh, man,” whispered Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0147.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      933,
+      625,
+      1235,
+      883
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0148",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      18
+    ],
+    "text": "The light fell on shiny breastplates, leg plates, arm plates. On shelves filled with helmets and weapons. On shields, spears, swords, crossbows, clubs, battle-axes.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0148.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      9,
+      906,
+      339,
+      1251
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0149",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "There was a noise in the hall. Voices!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0149.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      365,
+      906,
+      616,
+      1251
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0150",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "“Let’s hide!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0150.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      642,
+      906,
+      910,
+      1251
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0151",
+    "chapter": 5,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "“Wait,” said Jack. “I’ve got to check on something first.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0151.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      935,
+      906,
+      1235,
+      1249
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

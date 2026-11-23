@@ -3125,5 +3125,317 @@
       917
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0162",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "In the torchlight, Jack saw three huge men standing over him. One with very squinty eyes held the torch. One with a very red face held Jack. And one with a very long mustache held on to Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0162.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      15,
+      15,
+      294,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0163",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      3,
+      4
+    ],
+    "text": "Annie was kicking and yelling. “Stop!” said the one with the very long mustache.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0163.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      329,
+      14,
+      606,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0164",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "“Who art thou?” said the one with the very red face.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0164.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      641,
+      16,
+      918,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0165",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "“Spies? Foreigners? Egyptians? Romans? Persians?” said the squinty-eyed one.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0165.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      954,
+      16,
+      1230,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0166",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“No, you dummies!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0166.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      15,
+      335,
+      293,
+      612
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0167",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "text": "“Oh, brother,” Jack muttered. “Arrest them!” said Red-face.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0167.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      329,
+      335,
+      606,
+      612
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0168",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "“The dungeon!” said Squinty-eyes.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0168.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      641,
+      335,
+      918,
+      612
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0169",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "The guards marched Jack and Annie out of the armory. Jack looked back frantically. Where was his backpack?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0169.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      954,
+      335,
+      1230,
+      612
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0170",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Go!” said a guard, giving him a push.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0170.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      15,
+      646,
+      248,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0171",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      13,
+      14
+    ],
+    "text": "Jack went. Down they marched, down the long, dark hallway. Squinty, Annie, Mustache, Jack, and Red.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0171.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      283,
+      646,
+      609,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0172",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      15,
+      16
+    ],
+    "text": "Down a narrow, winding staircase. Jack heard Annie shouting at the guards. “Dummies! Meanies! We didn’t do anything!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0172.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      644,
+      646,
+      918,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0173",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "The guards laughed. They didn’t take her seriously at all.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0173.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      952,
+      646,
+      1230,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0174",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "At the bottom of the stairs was a big iron door with a bar across it. Squinty pushed the bar off the door. Then he shoved at the door. It creaked open.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0174.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      15,
+      952,
+      249,
+      1244
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0175",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "Jack and Annie were pushed into a cold, clammy room. The fiery torch lit the dungeon. There were chains hanging from the filthy walls. Water dripped from the ceiling, making puddles on the stone floor. It was the creepiest place Jack had ever seen.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0175.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      285,
+      952,
+      608,
+      1244
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0176",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "“We’ll keep them here till the feast is done. Then turn them over to the Duke,” said Squinty. “He knows how to take care of thieves.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0176.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      643,
+      952,
+      918,
+      1246
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0177",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      23,
+      24
+    ],
+    "text": "“There will be a hanging tomorrow,” said Mustache. “If the rats don’t get them first,” said Red.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0177.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      953,
+      952,
+      1230,
+      1244
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

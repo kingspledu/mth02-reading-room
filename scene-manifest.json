@@ -4325,5 +4325,218 @@
       1248
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0224",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "Jack unlatched the door and pushed it open. He poked his head outside.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0224.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      14,
+      20,
+      293,
+      257
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0225",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "He couldn’t see anything in the misty darkness. The air felt good. Cool and fresh. He took a deep breath.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0225.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      326,
+      21,
+      607,
+      257
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0226",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      22
+    ],
+    "text": "“Where are we?” whispered Annie behind him. “What do you see?”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0226.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      641,
+      21,
+      897,
+      257
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0227",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      23
+    ],
+    "text": "“Nothing. But I think we’ve come to the outside of the castle,” said Jack. “I’ll find out.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0227.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      931,
+      21,
+      1231,
+      257
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0228",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      24
+    ],
+    "text": "Jack put the flashlight in his pack. He put the pack on his back. He stuck his hand out the door. He couldn’t feel the ground. Just air.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0228.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      14,
+      291,
+      291,
+      569
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0229",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      25,
+      26
+    ],
+    "text": "“I’m going to have to go feet first,” he said. Jack turned around in the small tunnel. He lay down on his stomach. He stuck one leg out the door. Then the other.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0229.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      326,
+      291,
+      608,
+      569
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0230",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      27
+    ],
+    "text": "Jack inched down, bit by bit. Until he was hanging out the door, clinging to the ledge.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0230.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      642,
+      291,
+      924,
+      569
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0231",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      28
+    ],
+    "text": "“This must be the precipice!” he called to Annie. “Pull me up!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0231.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      959,
+      291,
+      1231,
+      569
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0232",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      29
+    ],
+    "text": "Annie reached for Jack’s hands. “I can’t hold you!” she said.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0232.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      17,
+      604,
+      292,
+      885
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0233",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      30
+    ],
+    "text": "Jack felt his fingers slipping. Then down he fell.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0233.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      327,
+      604,
+      608,
+      885
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0234",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      31,
+      32
+    ],
+    "text": "Down through the darkness. SPLASH!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0234.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      642,
+      604,
+      925,
+      885
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

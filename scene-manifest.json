@@ -1979,5 +1979,161 @@
       1239
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0103",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "“But look at this!” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0103.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      8,
+      304,
+      344
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0104",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      30
+    ],
+    "text": "He pointed to a picture of a big party. Men were standing by the door, playing drums and horns.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0104.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      329,
+      8,
+      618,
+      344
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0105",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      31,
+      32
+    ],
+    "text": "He read: Fanfares were played to announce different dishes in a feast. Feasts were held in the Great Hall.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0105.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      642,
+      8,
+      929,
+      344
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0106",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      33
+    ],
+    "text": "“You can look at the book. I’m going to the real feast,” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0106.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      955,
+      8,
+      1251,
+      344
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0107",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      34
+    ],
+    "text": "“Wait,” said Jack, studying the picture. It showed boys his age carrying trays of food. Whole pigs. Pies. Peacocks with all their feathers. Peacocks?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0107.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      369,
+      305,
+      652
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0108",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      35,
+      36,
+      37
+    ],
+    "text": "Jack wrote: He held up the book to show Annie. “Look, I think they eat—” Where was she? Gone. Again.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0108.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      330,
+      369,
+      618,
+      652
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0109",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      38,
+      39
+    ],
+    "text": "Jack looked through the fog. He heard the real drums and the real horns. He saw the real hawk house, the real windmill, the real moat.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0109.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      643,
+      369,
+      929,
+      652
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0110",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "text": "He saw Annie dashing across the real drawbridge. Then she vanished through the gate leading to the castle.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0110.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      955,
+      369,
+      1251,
+      652
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

@@ -3437,5 +3437,275 @@
       1244
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0178",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      25,
+      26
+    ],
+    "text": "They all laughed. Jack saw that Annie had his backpack. She was quietly unzipping it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0178.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      16,
+      16,
+      269,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0179",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "“Come on, let’s chain the two of ’em,” said Squinty. The guards started toward them. Annie whipped her flashlight out of the pack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0179.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      305,
+      16,
+      555,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0180",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "“Ta-da!” she yelled.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0180.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      591,
+      16,
+      850,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0181",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      30
+    ],
+    "text": "The guards froze. They stared at the shiny flashlight in her hand.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0181.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      885,
+      16,
+      1219,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0182",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "Annie switched the light on. The guards gasped in fear. They jumped back against the wall.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0182.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      14,
+      343,
+      272,
+      621
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0183",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "Squinty dropped the torch. It fell into a dirty puddle on the floor, sputtered, and went out.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0183.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      309,
+      343,
+      567,
+      621
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0184",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      33
+    ],
+    "text": "“My magic wand!” Annie said, waving the flashlight. “Get down. Or I’ll wipe you out!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0184.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      603,
+      343,
+      863,
+      621
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0185",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      34,
+      35
+    ],
+    "text": "Jack’s mouth dropped open. Annie fiercely pointed her light at one, then the other. Each howled and covered his face.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0185.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      899,
+      343,
+      1218,
+      621
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0186",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      36
+    ],
+    "text": "“Down! All of you! Get down!” shouted Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0186.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      16,
+      656,
+      283,
+      926
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0187",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      37,
+      38
+    ],
+    "text": "One by one, the guards lay down on the wet floor. Jack couldn’t believe it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0187.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      319,
+      656,
+      595,
+      926
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0188",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      39
+    ],
+    "text": "“Come on,” Annie said to him. “Let’s go.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0188.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      631,
+      656,
+      900,
+      926
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0189",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "text": "Jack looked at the open doorway. He looked at the guards quaking on the ground.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0189.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      937,
+      656,
+      1216,
+      926
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0190",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      41
+    ],
+    "text": "“Hurry!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0190.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      16,
+      961,
+      289,
+      1257
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0191",
+    "chapter": 6,
+    "part": 1,
+    "paragraphs": [
+      42
+    ],
+    "text": "In one quick leap, Jack followed her out of the terrible dungeon.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0191.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      324,
+      961,
+      598,
+      1257
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

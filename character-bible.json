@@ -1,0 +1,69 @@
+{
+  "book": 2,
+  "title": "The Knight at Dawn",
+  "common_reference": {
+    "version": "mth04-visual-v1",
+    "reference": "assets/series-jack-annie-reference.png",
+    "priority": "Source presence and wardrobe state override the reference default pose and gear.",
+    "characters": [
+      {
+        "id": "MTH-JACK",
+        "name": "Jack",
+        "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
+        "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+      },
+      {
+        "id": "MTH-ANNIE",
+        "name": "Annie",
+        "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
+        "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+      }
+    ]
+  },
+  "characters": [
+    {
+      "id": "MTH-JACK",
+      "name": "Jack",
+      "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
+      "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+    },
+    {
+      "id": "MTH-ANNIE",
+      "name": "Annie",
+      "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
+      "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+    },
+    {
+      "id": "MTH02-KNIGHT",
+      "name": "Black Knight",
+      "source_facts": "경비와 구분되는 기사. 갑옷·투구·말과 함께 원문 등장 시점에 맞춰 그린다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH02-HORSE",
+      "name": "Black Horse",
+      "source_facts": "기사의 검은 말. 기승·정지·이동 상태를 구분한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH02-GUARDS",
+      "name": "Castle Guards",
+      "source_facts": "기사·연회 인물과 다른 집단. 장면에 필요한 인원만 그린다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH02-REVELERS",
+      "name": "Feast Hall Revelers",
+      "source_facts": "연회장의 사람들. 다른 성 내부 장면에 자동으로 추가하지 않는다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH02-DOGS",
+      "name": "Castle Dogs",
+      "source_facts": "성의 개들. 이웃의 Henry와 혼동하지 않는다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    }
+  ],
+  "status": "text_rules_ready_book_specific_visual_sheets_pending",
+  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다."
+}

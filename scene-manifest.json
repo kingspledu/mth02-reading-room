@@ -4017,5 +4017,313 @@
       1246
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0208",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "The floor of the room was made up of stones. The trapdoor in the picture was five stones away from the door to the hall.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0208.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      9,
+      9,
+      300,
+      304
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0209",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "Jack shined the light on the floor and counted the stones. “One, two, three, four, five.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0209.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      324,
+      10,
+      613,
+      304
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0210",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "He stamped on the fifth stone. It was loose!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0210.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      637,
+      8,
+      925,
+      304
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0211",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      1
+    ],
+    "text": "He put the flashlight on the floor. He worked his fingers under the thin sheet of stone and tried to lift it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0211.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      949,
+      10,
+      1238,
+      304
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0212",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      2,
+      3
+    ],
+    "text": "“Help,” Jack said. Annie came over and helped him lift the stone square out of its place. Underneath was a small wooden door.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0212.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      8,
+      327,
+      300,
+      620
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0213",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      4
+    ],
+    "text": "Jack and Annie tugged on the rope handle of the door. The door fell open with a thunk.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0213.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      324,
+      327,
+      613,
+      620
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0214",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "Jack picked up the flashlight and shined it on the hole. “There’s a little ladder,” he said. “Let’s go!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0214.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      637,
+      327,
+      925,
+      620
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0215",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      7
+    ],
+    "text": "He clipped on the flashlight and felt his way down the small ladder. Annie followed.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0215.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      949,
+      327,
+      1238,
+      620
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0216",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "text": "When they both reached the bottom of the ladder, Jack shined the light around them. There was a tunnel!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0216.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      8,
+      641,
+      300,
+      931
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0217",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      10
+    ],
+    "text": "He crouched down and began moving through the damp, creepy tunnel. The flashlight barely lit the stone walls.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0217.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      324,
+      641,
+      613,
+      931
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0218",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      11
+    ],
+    "text": "He shook the light. Were the batteries running down?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0218.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      637,
+      641,
+      925,
+      931
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0219",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      12
+    ],
+    "text": "“I think our light’s dying!” he said to Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0219.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      949,
+      641,
+      1240,
+      931
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0220",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      13
+    ],
+    "text": "“Hurry!” she called from behind.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0220.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      9,
+      954,
+      300,
+      1248
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0221",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      14
+    ],
+    "text": "Jack went faster. His back hurt from crouching.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0221.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      324,
+      954,
+      613,
+      1248
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0222",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      15,
+      16
+    ],
+    "text": "The light got dimmer and dimmer. He was desperate to get out of the castle before the batteries died completely.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0222.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      637,
+      954,
+      925,
+      1248
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0223",
+    "chapter": 7,
+    "part": 2,
+    "paragraphs": [
+      17
+    ],
+    "text": "Soon he reached another small wooden door. The door at the end of the tunnel!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0223.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      949,
+      954,
+      1238,
+      1248
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

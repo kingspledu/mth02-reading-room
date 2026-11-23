@@ -1490,5 +1490,178 @@
       1253
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0078",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      17
+    ],
+    "text": "“No!” said Annie. She yanked the book away from him. “Let’s stay! I want to visit the castle!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0078.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      8,
+      8,
+      300,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0079",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      18
+    ],
+    "text": "“You’re nuts. We have to examine the situation,” said Jack. “From home.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0079.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      324,
+      8,
+      610,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0080",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      19
+    ],
+    "text": "“Let’s examine it here!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0080.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      635,
+      8,
+      923,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0081",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      20
+    ],
+    "text": "“Come on.” He held out his hand. “Give it.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0081.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      948,
+      8,
+      1241,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0082",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      21
+    ],
+    "text": "Annie gave Jack the book. “Okay. You can go home. I’m staying,” she said. She clipped the flashlight to her belt.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0082.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      8,
+      327,
+      299,
+      617
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0083",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      22
+    ],
+    "text": "“Wait!” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0083.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      324,
+      327,
+      610,
+      617
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0084",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      23
+    ],
+    "text": "“I’m going to take a peek. A teeny peek,” she said. And she scooted down the ladder.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0084.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      635,
+      327,
+      923,
+      617
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0085",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      24
+    ],
+    "text": "Jack groaned. Okay, she had won. He couldn’t leave without her. Besides, he sort of wanted to take a peek himself.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0085.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      948,
+      327,
+      1241,
+      617
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0086",
+    "chapter": 2,
+    "part": 2,
+    "paragraphs": [
+      25,
+      26
+    ],
+    "text": "He put down the book about Pennsylvania. He dropped the castle book into his pack. He stepped onto the ladder. And headed down into the cool, misty air.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0086.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "review": "Targeted generated edit visually reviewed: removed duplicate backpack; one floor backpack only.",
+    "correction": "Single-scene regenerated correction, native aspect ratio preserved."
   }
 ]

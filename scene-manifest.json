@@ -1661,7 +1661,323 @@
       1254,
       1254
     ],
-    "review": "Targeted generated edit visually reviewed: removed duplicate backpack; one floor backpack only.",
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected.",
     "correction": "Single-scene regenerated correction, native aspect ratio preserved."
+  },
+  {
+    "id": "mth02-scene-0087",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Annie was under the tree, looking across the foggy ground. “The knight’s riding toward that bridge, I think,” said Annie. “The bridge goes to the castle.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0087.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      8,
+      304,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0088",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "“Wait. I’ll look it up,” said Jack. “Give me the flashlight!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0088.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      329,
+      8,
+      618,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0089",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "He took the flashlight from her and pulled the castle book out of his pack. He opened it to the page with the leather bookmark.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0089.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      643,
+      8,
+      932,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0090",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      5,
+      6
+    ],
+    "text": "He read the words under the picture of the knight: This is a knight arriving for a castle feast. Knights wore armor when they traveled long and dangerous distances. The armor was very heavy. A helmet alone could weigh up to forty pounds.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0090.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      957,
+      8,
+      1253,
+      303
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0091",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "Wow. Jack had weighed forty pounds when he was five years old. So it’d be like riding a horse with a five-year-old on your head.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0091.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      327,
+      304,
+      611
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0092",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "Jack pulled out his notebook. He wanted to take notes, as he’d done on their dinosaur trip.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0092.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      329,
+      327,
+      618,
+      611
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0093",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      9,
+      10,
+      11
+    ],
+    "text": "He wrote: What else? He turned the pages of the castle book. He found a picture that showed the whole castle and the buildings around it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0093.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      643,
+      327,
+      932,
+      611
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0094",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“The knight’s crossing the bridge,” said Annie. “He’s going through the gate ....  He’s gone.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0094.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      957,
+      327,
+      1253,
+      611
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0095",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      13,
+      14,
+      15
+    ],
+    "text": "Jack studied the bridge in the picture. He read: A drawbridge crossed the moat. The moat was filled with water, to help protect the castle from enemies. Some people believe crocodiles were kept in the moat.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0095.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      635,
+      304,
+      918
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0096",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "text": "Jack wrote in his notebook: “Look!” said Annie, peering through the mist. “A windmill! Right over there!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0096.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      330,
+      635,
+      618,
+      918
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0097",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "“Yeah, there’s a windmill in here, too,” said Jack, pointing at the picture. “Look at the real one, Jack,” said Annie. “Not the one in the book.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0097.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      643,
+      635,
+      932,
+      918
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0098",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "A piercing shriek split the air. “Yikes,” said Annie. “It sounded like it came from that little house over there!” She pointed through the fog.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0098.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      957,
+      635,
+      1253,
+      918
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0099",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      22,
+      23
+    ],
+    "text": "“There’s a little house here,” said Jack, studying the picture. He turned the page and read: The hawk house was in the inner ward of the castle. Hawks were trained to hunt other birds and small animals.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0099.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      8,
+      942,
+      304,
+      1239
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0100",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      24,
+      25,
+      26
+    ],
+    "text": "Jack wrote in his notebook: “We must be in the inner ward,” said Jack. “Listen!” whispered Annie. “You hear that? Drums! Horns! They’re coming from the castle. Let’s go see.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0100.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      330,
+      942,
+      618,
+      1239
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0101",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      27
+    ],
+    "text": "“Wait,” said Jack. He turned more pages of the book.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0101.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      643,
+      942,
+      932,
+      1239
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0102",
+    "chapter": 3,
+    "part": 1,
+    "paragraphs": [
+      28
+    ],
+    "text": "“I want to see what’s really going on, Jack. Not what’s in the book,” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0102.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      957,
+      942,
+      1253,
+      1239
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

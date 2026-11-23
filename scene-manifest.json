@@ -2445,5 +2445,181 @@
       1282
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0127",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“The feast in the Great Hall!” whispered Jack. He held his breath as he stared in awe.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0127.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      8,
+      303,
+      296
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0128",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "A giant fireplace blazed at one end of the noisy room. Antlers and rugs hung on the stone walls. Flowers covered the floor. Boys in short dresses carried huge trays of food.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0128.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      328,
+      8,
+      619,
+      296
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0129",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      25,
+      26
+    ],
+    "text": "Dogs were fighting over bones under the tables. People in bright clothes and funny hats strolled among the crowd. Some played funny-shaped guitars. Some tossed balls in the air. Some balanced swords on their hands.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0129.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      644,
+      8,
+      933,
+      296
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0130",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "Men and women dressed in capes and furs sat at long, crowded wooden tables. “I wonder which one is the knight,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0130.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      958,
+      8,
+      1254,
+      296
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0131",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "“I don’t know,” whispered Annie. “But they’re eating with their fingers.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0131.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      320,
+      302,
+      592
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0132",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      30,
+      31
+    ],
+    "text": "Suddenly, someone shouted behind them. Jack whirled around.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0132.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      328,
+      320,
+      618,
+      592
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0133",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      32,
+      33
+    ],
+    "text": "A man carrying a tray of pies was standing a few feet away. “Who art thou?” he asked angrily.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0133.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      644,
+      320,
+      932,
+      592
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0134",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      34,
+      35
+    ],
+    "text": "“Jack,” squeaked Jack. “Annie,” squeaked Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0134.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      958,
+      320,
+      1254,
+      592
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0135",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      36
+    ],
+    "text": "Then they ran as fast as they could down a dimly lit hallway.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0135.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      617,
+      303,
+      887
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

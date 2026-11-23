@@ -3707,5 +3707,315 @@
       1257
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0192",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "Annie and Jack raced back up the winding stairs and down the long hallway. They hadn’t gone far when they heard shouting behind them.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0192.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      13,
+      10,
+      300,
+      309
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0193",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      3,
+      4
+    ],
+    "text": "Dogs barked in the distance. “They’re coming!” Annie cried.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0193.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      325,
+      10,
+      612,
+      309
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0194",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "“In here!” said Jack. He shoved open a door off the hallway and pulled Annie into a dark room.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0194.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      636,
+      10,
+      893,
+      309
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0195",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "Jack pushed the door shut. Then Annie shined her flashlight around the room. There were rows of sacks and wooden barrels.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0195.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      917,
+      10,
+      1235,
+      309
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0196",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“I’d better look in the book,” said Jack. “Give it to me!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0196.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      13,
+      334,
+      300,
+      615
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0197",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "Annie gave him the flashlight and his backpack. He pulled out the book and started tearing through it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0197.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      325,
+      334,
+      612,
+      615
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0198",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Shhh!” said Annie. “Someone’s coming.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0198.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      637,
+      334,
+      893,
+      615
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0199",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "Jack and Annie jumped behind the door as it creaked open. Jack held his breath. A light from a torch danced wildly over the sacks and barrels.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0199.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      918,
+      334,
+      1235,
+      615
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0200",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "The light disappeared. The door slammed shut.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0200.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      13,
+      641,
+      301,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0201",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "“Oh, man,” whispered Jack. “We have to hurry. They might come back.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0201.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      326,
+      641,
+      605,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0202",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "His hands were trembling as he flipped through the pages of the castle book. “Here’s a map of the castle,” he said. “Look, this must be the room we’re in. It’s a storeroom.” Jack studied the room in the book. “These are sacks of flour and barrels of wine.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0202.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      630,
+      641,
+      903,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0203",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "“Who cares? We have to go!” said Annie. “Before they come back!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0203.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      928,
+      641,
+      1235,
+      919
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0204",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "“No. Look,” said Jack. He pointed at the map. “Here’s a trapdoor.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0204.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      12,
+      944,
+      301,
+      1246
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0205",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19,
+      20
+    ],
+    "text": "He read aloud: This door leads from the storeroom through a secret passage to a precipice over the moat. “What’s a precipice?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0205.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      327,
+      944,
+      605,
+      1246
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0206",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "“I don’t know. We’ll find out,” said Jack. “But first we have to find the door.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0206.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      631,
+      944,
+      903,
+      1246
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0207",
+    "chapter": 7,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "Jack looked at the picture carefully. Then he shined the flashlight around the room.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0207.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      929,
+      944,
+      1235,
+      1246
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

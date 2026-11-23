@@ -2135,5 +2135,315 @@
       652
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0111",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "“I’m going to kill her,” muttered Jack. He threw his stuff into his pack and moved toward the drawbridge. He hoped no one would see him.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0111.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      8,
+      283,
+      312
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0112",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "It was getting darker. It must be night.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0112.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      306,
+      8,
+      573,
+      312
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0113",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      4
+    ],
+    "text": "When he got to the bridge, he started across. The wooden planks creaked under his feet.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0113.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      596,
+      8,
+      860,
+      312
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0114",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      5
+    ],
+    "text": "He peered over the edge of the bridge. Were there any crocodiles in the moat? He couldn’t tell.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0114.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      884,
+      8,
+      1211,
+      312
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0115",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "“Halt!” someone shouted. A guard on top of the castle wall was looking down.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0115.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      334,
+      286,
+      631
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0116",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "Jack dashed across the bridge. He ran through the castle gate and into the courtyard.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0116.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      310,
+      334,
+      575,
+      631
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0117",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      8,
+      9
+    ],
+    "text": "From inside the castle came the sounds of music, shouting, and laughter. Jack hurried to a dark corner and crouched down. He shivered as he looked around for Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0117.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      599,
+      334,
+      859,
+      631
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0118",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "Torches lit the high wall around the courtyard. The courtyard was nearly empty.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0118.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      883,
+      334,
+      1211,
+      631
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0119",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      11,
+      12
+    ],
+    "text": "Two boys led horses that clopped over the gray cobblestones. “Neeee-hhhh!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0119.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      655,
+      286,
+      917
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0120",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "Jack turned. It was the knight’s black horse!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0120.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      310,
+      655,
+      587,
+      917
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0121",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "“Psssst!” He peered into the darkness.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0121.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      611,
+      655,
+      873,
+      917
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0122",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "text": "There was Annie. She was hiding behind a well in the center of the courtyard. She waved at him.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0122.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      897,
+      655,
+      1211,
+      917
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0123",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      18
+    ],
+    "text": "Jack waved back. He waited till the boys and horses disappeared inside the stable. Then he dashed to the well.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0123.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      8,
+      940,
+      286,
+      1282
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0124",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "“I’m going to find the music!” whispered Annie. “Are you coming?”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0124.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      310,
+      940,
+      583,
+      1282
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0125",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "“Okay,” Jack said with a sigh. They tiptoed together across the cobblestones. Then they slipped into the entrance of the castle.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0125.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      607,
+      940,
+      874,
+      1282
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0126",
+    "chapter": 4,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "Noise and music came from a bright room in front of them. They stood on one side of the doorway and peeked in.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0126.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      898,
+      940,
+      1211,
+      1282
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

@@ -310,5 +310,313 @@
       1247
     ],
     "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0017",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "“Come on,” said Annie. “Maybe we can catch them sleeping.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0017.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      2,
+      307,
+      309
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0018",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "“I don’t think we should,” said Jack. He was worried. What if the “magic person” was mean? What if he or she didn’t want kids to know about the tree house?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0018.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      322,
+      2,
+      617,
+      309
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0019",
+    "chapter": 1,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "“Well, I’m going,” said Annie. Jack looked out his window at the dark-gray sky. It was almost dawn.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0019.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      632,
+      2,
+      929,
+      309
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0020",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      1
+    ],
+    "text": "He sighed. “Okay. Let’s get dressed. I’ll meet you at the back door. Be quiet.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0020.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      945,
+      2,
+      1248,
+      309
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0021",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      2
+    ],
+    "text": "“Yay!” whispered Annie. She tiptoed away as quietly as a mouse.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0021.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      2,
+      322,
+      307,
+      623
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0022",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      3
+    ],
+    "text": "Jack put on jeans, a warm sweatshirt, and sneakers. He tossed his notebook and pencil in his backpack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0022.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      322,
+      322,
+      617,
+      623
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0023",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      4,
+      5
+    ],
+    "text": "He crept downstairs. Annie was waiting by the back door. She shined a flashlight in Jack’s face. “Ta-da! A magic wand!” she said.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0023.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      632,
+      322,
+      929,
+      623
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0024",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      6
+    ],
+    "text": "“Shhh! Don’t wake up Mom and Dad,” whispered Jack. “And turn that flashlight off. We don’t want anyone to see us.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0024.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      945,
+      322,
+      1248,
+      623
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0025",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      7
+    ],
+    "text": "Annie nodded and turned it off. Then she clipped it onto her belt.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0025.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      2,
+      636,
+      307,
+      933
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0026",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      8
+    ],
+    "text": "They slipped out the door into the cool early-morning air. Crickets were chirping. The dog next door barked.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0026.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      322,
+      636,
+      617,
+      933
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0027",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Quiet, Henry!” whispered Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0027.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      632,
+      636,
+      929,
+      933
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0028",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      10
+    ],
+    "text": "Henry stopped barking. Animals always seemed to do what Annie said.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0028.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      944,
+      636,
+      1248,
+      933
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0029",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      11
+    ],
+    "text": "“Let’s run!” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0029.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      2,
+      946,
+      308,
+      1256
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0030",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      12,
+      13
+    ],
+    "text": "They dashed across the dark, wet lawn and didn’t stop until they reached the woods. “We need the flashlight now,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0030.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      323,
+      946,
+      617,
+      1256
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0031",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "Annie took it off her belt and switched it on. Step by step, she and Jack walked between the trees. Jack held his breath. The dark woods were scary.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0031.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      633,
+      946,
+      929,
+      1256
+    ],
+    "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0032",
+    "chapter": 1,
+    "part": 2,
+    "paragraphs": [
+      16
+    ],
+    "text": "“Gotcha!” said Annie, shining the flashlight in Jack’s face.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0032.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      944,
+      946,
+      1248,
+      1256
+    ],
+    "review": "Pending visual review before deployment"
   }
 ]

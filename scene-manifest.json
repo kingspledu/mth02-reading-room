@@ -869,5 +869,314 @@
       1256
     ],
     "review": "Pending visual review before deployment"
+  },
+  {
+    "id": "mth02-scene-0046",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "“No one’s here!” Annie shouted down.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0046.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      8,
+      8,
+      297,
+      310
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0047",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      2
+    ],
+    "text": "Jack thought about going home. Then he thought about all the books in the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0047.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      322,
+      8,
+      611,
+      310
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0048",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "He started up the ladder. When he was nearly to the tree house, he saw light in the distant sky. Dawn was starting to break.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0048.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      8,
+      925,
+      310
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0049",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      4,
+      5
+    ],
+    "text": "He crawled through a hole in the floor and took off his backpack. It was dark inside the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0049.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      951,
+      8,
+      1239,
+      310
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0050",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      6,
+      7
+    ],
+    "text": "Annie was shining her flashlight on the books scattered about. “They’re still here,” she said.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0050.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      8,
+      334,
+      297,
+      609
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0051",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "She stopped the light on a dinosaur book. It was the book that had taken them to the time of the dinosaurs.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0051.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      322,
+      334,
+      611,
+      609
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0052",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Remember the Tyrannosaurus?” asked Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0052.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      334,
+      924,
+      609
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0053",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      10
+    ],
+    "text": "Jack shuddered. Of course he remembered! How could anyone forget seeing a real live Tyrannosaurus rex?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0053.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      950,
+      334,
+      1239,
+      609
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0054",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "The light fell on a book about Pennsylvania. A red silk bookmark stuck out of it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0054.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      8,
+      633,
+      296,
+      912
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0055",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“Remember the picture of Frog Creek?” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0055.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      322,
+      633,
+      611,
+      912
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0056",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "“Of course,” said Jack. That was the picture that had brought them home.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0056.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      633,
+      924,
+      912
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0057",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "“There’s my favorite,” said Annie. The light was shining on a book about knights and castles. There was a blue leather bookmark in it.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0057.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      950,
+      633,
+      1239,
+      912
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0058",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      16
+    ],
+    "text": "Annie turned to the page with the bookmark. There was a picture of a knight on a black horse. He was riding toward a castle.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0058.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      8,
+      935,
+      297,
+      1253
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0059",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      17
+    ],
+    "text": "“Annie, close that book,” said Jack. “I know what you’re thinking.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0059.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      322,
+      935,
+      611,
+      1253
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0060",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      18,
+      19
+    ],
+    "text": "Annie pointed at the knight. “Don’t, Annie!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0060.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      636,
+      935,
+      923,
+      1253
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0061",
+    "chapter": 2,
+    "part": 1,
+    "paragraphs": [
+      20,
+      21
+    ],
+    "text": "“We wish we could see this guy for real,” Annie said. “No, we don’t!” shouted Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0061.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      948,
+      935,
+      1239,
+      1253
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

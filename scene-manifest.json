@@ -4845,5 +4845,314 @@
       1242
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0251",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "Another splash! Not far away!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0251.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      13,
+      12,
+      298,
+      299
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0252",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      21,
+      22
+    ],
+    "text": "Jack’s hand touched a wet, live thing. “Ahhhh!” he cried.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0252.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      327,
+      12,
+      609,
+      299
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0253",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "“It’s me! Take my hand!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0253.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      637,
+      12,
+      920,
+      299
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0254",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "Jack grabbed her hand. She pulled him to the edge of the moat. They crawled over an embankment onto the wet grass.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0254.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      949,
+      12,
+      1235,
+      299
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0255",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      25,
+      26
+    ],
+    "text": "Safe! Another splash came from the moat waters.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0255.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      328,
+      298,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0256",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "“Oh, man,” Jack said. He was shivering all over. His teeth were chattering. He shook the water off his glasses and put them back on.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0256.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      327,
+      328,
+      609,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0257",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "It was so misty he couldn’t see the castle. He couldn’t even see the moat, much less a crocodile.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0257.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      638,
+      328,
+      920,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0258",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      30
+    ],
+    "text": "“We … we made it,” said Annie. Her teeth were chattering, too.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0258.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      949,
+      328,
+      1235,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0259",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "“I know,” said Jack. “But where are we?” He peered at the foggy darkness.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0259.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      636,
+      298,
+      895
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0260",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "Where was the drawbridge? The windmill? The hawk house? The grove of trees? The tree house?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0260.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      327,
+      636,
+      609,
+      895
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0261",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      33,
+      34
+    ],
+    "text": "Everything had been swallowed up by the thick, soupy darkness. Jack reached into his wet backpack and pulled out the flashlight. He pushed the switch. No more light.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0261.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      637,
+      636,
+      920,
+      895
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0262",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      35
+    ],
+    "text": "They were trapped. Not in a dungeon. But in the still, cold darkness.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0262.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      949,
+      636,
+      1235,
+      895
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0263",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      36,
+      37
+    ],
+    "text": "“Neeee-hhhh!” A horse’s whinny.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0263.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      11,
+      923,
+      298,
+      1249
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0264",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      38
+    ],
+    "text": "Just then the clouds parted. A full moon was shining in the sky. A pool of light spread through the mist.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0264.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      327,
+      923,
+      609,
+      1249
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0265",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      39
+    ],
+    "text": "Then Jack and Annie saw him just a few feet away. The knight.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0265.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      637,
+      923,
+      920,
+      1249
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0266",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "text": "He sat on the black horse. His armor shone in the moonlight. A visor hid his face. But he seemed to be staring straight at Jack and Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0266.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      949,
+      923,
+      1235,
+      1249
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

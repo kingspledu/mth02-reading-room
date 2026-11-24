@@ -5831,5 +5831,315 @@
       343
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0302",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      1,
+      2
+    ],
+    "text": "The air was warm. It was dawn. Far away a dog barked.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0302.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      12,
+      13,
+      282,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0303",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "“I think that’s Henry barking!” Annie said. “We did come home.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0303.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      313,
+      13,
+      604,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0304",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      4,
+      5
+    ],
+    "text": "They both looked out the tree house window. “That was close,” said Jack.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0304.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      636,
+      13,
+      902,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0305",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "In the distance, streetlights lit their street. There was a light on in their upstairs window.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0305.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      934,
+      13,
+      1233,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0306",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“Uh-oh,” said Annie. “I think Mom and Dad are up. Hurry!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0306.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      12,
+      330,
+      282,
+      614
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0307",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "“Wait.” In a daze, Jack unzipped his backpack. He pulled out the castle book. It was quite wet. But Jack placed it back with all the other books.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0307.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      314,
+      330,
+      605,
+      614
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0308",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      9
+    ],
+    "text": "“Come on! Hurry!” said Annie, scooting out of the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0308.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      637,
+      330,
+      902,
+      614
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0309",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      10,
+      11
+    ],
+    "text": "Jack followed her down the ladder. They reached the ground and took off between the gray-black trees.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0309.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      935,
+      330,
+      1234,
+      614
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0310",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      12,
+      13
+    ],
+    "text": "They left the woods and ran down their deserted street. They got to their yard and crept across the lawn. Right up to the back door.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0310.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      12,
+      644,
+      368,
+      929
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0311",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      14,
+      15
+    ],
+    "text": "Jack and Annie slipped inside the house. “They’re not downstairs yet,” whispered Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0311.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      399,
+      644,
+      606,
+      929
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0312",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "text": "“Shhh,” said Jack. He led the way up the stairs and down the hall. No sign of his mom or dad. But he could hear water running in the bathroom.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0312.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      638,
+      644,
+      900,
+      929
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0313",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      18
+    ],
+    "text": "Their house was so different from the dark, cold castle. So safe and cozy and friendly.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0313.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      933,
+      644,
+      1233,
+      929
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0314",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "Annie stopped at her bedroom door. She gave Jack a smile, then disappeared inside her room.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0314.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      15,
+      960,
+      288,
+      1247
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0315",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      20
+    ],
+    "text": "Jack hurried into his room. He took off his damp clothes and pulled on his dry, soft pajamas.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0315.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      320,
+      960,
+      603,
+      1247
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0316",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      21
+    ],
+    "text": "He sat down on his bed and unzipped his backpack. He took out his wet notebook. He felt around for the pencil, but his hand touched something else.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0316.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      635,
+      960,
+      906,
+      1247
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0317",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      22
+    ],
+    "text": "Jack pulled the blue leather bookmark out of his pack. It must have fallen out of the castle book.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0317.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      938,
+      960,
+      1233,
+      1247
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

@@ -5772,5 +5772,64 @@
       1233
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0299",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      43,
+      44
+    ],
+    "text": "Too late. The tree house started to spin. It was spinning and spinning!",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0299.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      15,
+      19,
+      291,
+      343
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0300",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      45,
+      46
+    ],
+    "text": "The wind was screaming. Then suddenly there was silence.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0300.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      331,
+      19,
+      604,
+      343
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0301",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      47
+    ],
+    "text": "Absolute silence.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0301.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      643,
+      19,
+      915,
+      343
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

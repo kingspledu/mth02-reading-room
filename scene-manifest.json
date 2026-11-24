@@ -6141,5 +6141,198 @@
       1247
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0318",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      23
+    ],
+    "text": "Jack held the bookmark close to his lamp and studied it. The leather was smooth and worn. It seemed ancient.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0318.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      13,
+      12,
+      301,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0319",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      24
+    ],
+    "text": "For the first time Jack noticed a letter on the bookmark. A fancy M.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0319.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      323,
+      12,
+      615,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0320",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "Jack opened the drawer next to his bed. He took out the gold medallion.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0320.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      637,
+      12,
+      913,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0321",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "He looked at the letter on it. It was the same M.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0321.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      935,
+      12,
+      1243,
+      307
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0322",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      27,
+      28
+    ],
+    "text": "Now this was an amazing new fact. Jack took a deep breath. One mystery solved.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0322.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      13,
+      329,
+      301,
+      616
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0323",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      29,
+      30
+    ],
+    "text": "The person who had dropped the gold medallion in the time of the dinosaurs was the same person who owned all the books in the tree house. Who was this person?",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0323.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      323,
+      329,
+      616,
+      616
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0324",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      31
+    ],
+    "text": "Jack placed the bookmark next to the medallion. He closed the drawer.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0324.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      638,
+      329,
+      913,
+      616
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0325",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "He picked up his pencil. He turned to the least wet page in his notebook. And he started to write down this new fact.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0325.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      935,
+      329,
+      1243,
+      616
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0326",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      33,
+      34
+    ],
+    "text": "But before he could draw the M, his eyes closed. He dreamed they were with the knight again. All three of them riding the black horse through the cool, dark night. Beyond the outer wall of the castle. And up over a moonlit hill.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0326.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      13,
+      638,
+      301,
+      924
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0327",
+    "chapter": 10,
+    "part": 1,
+    "paragraphs": [
+      35
+    ],
+    "text": "Into the mist.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0327.webp",
+    "page": "part-10-01.html",
+    "crop": [
+      324,
+      638,
+      616,
+      924
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

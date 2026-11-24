@@ -4538,5 +4538,312 @@
       885
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0235",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      1
+    ],
+    "text": "Water filled Jack’s nose and covered his head. His glasses fell off. He grabbed them just in time. He coughed and flailed his arms.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0235.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      16,
+      18,
+      297,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0236",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      2
+    ],
+    "text": "“Jack!” Annie was calling from above.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0236.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      331,
+      16,
+      607,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0237",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      3
+    ],
+    "text": "“I’m in … the moat!” said Jack, gasping for air. He tried to tread water and put his glasses back on. With his backpack, his shoes, and his heavy clothes, he could hardly stay afloat.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0237.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      641,
+      16,
+      917,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0238",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      4,
+      5
+    ],
+    "text": "SPLASH! “Hi! I’m here!” Annie sputtered.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0238.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      951,
+      16,
+      1233,
+      301
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0239",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      6
+    ],
+    "text": "Jack could hear her nearby. But he couldn’t see her.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0239.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      16,
+      334,
+      297,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0240",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      7
+    ],
+    "text": "“Which way’s land?” Annie asked.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0240.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      331,
+      334,
+      607,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0241",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      8
+    ],
+    "text": "“I don’t know! Just swim!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0241.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      641,
+      334,
+      917,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0242",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      9,
+      10
+    ],
+    "text": "Jack dog-paddled through the cold black water. He heard Annie swimming, too. At first it seemed as if she was swimming in front of him. But then he heard a splash behind him.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0242.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      951,
+      334,
+      1233,
+      607
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0243",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      11
+    ],
+    "text": "“Annie?” he called.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0243.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      16,
+      641,
+      297,
+      908
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0244",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      12
+    ],
+    "text": "“What?” Her voice came from in front. Not behind.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0244.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      331,
+      641,
+      607,
+      908
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0245",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      13
+    ],
+    "text": "Another splash. Behind.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0245.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      641,
+      641,
+      917,
+      908
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0246",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      14
+    ],
+    "text": "Jack’s heart almost stopped. Crocodiles? He couldn’t see anything through his water-streaked glasses.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0246.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      951,
+      641,
+      1233,
+      908
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0247",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      15
+    ],
+    "text": "“Annie!” he whispered.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0247.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      16,
+      941,
+      296,
+      1244
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0248",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      16,
+      17
+    ],
+    "text": "“What?” “Swim faster!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0248.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      331,
+      941,
+      607,
+      1242
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0249",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      18
+    ],
+    "text": "“But I’m here! I’m over here! Near the edge!” she whispered.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0249.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      641,
+      941,
+      917,
+      1242
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0250",
+    "chapter": 8,
+    "part": 1,
+    "paragraphs": [
+      19
+    ],
+    "text": "Jack swam through the dark toward her voice. He imagined a crocodile slithering after him.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0250.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      951,
+      941,
+      1233,
+      1242
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]

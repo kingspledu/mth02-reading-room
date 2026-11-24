@@ -5466,5 +5466,311 @@
       1248
     ],
     "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0283",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      25
+    ],
+    "text": "The knight got back on his horse. He raised his gloved hand. Then he slapped the reins and rode off through the mist.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0283.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      11,
+      12,
+      301,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0284",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      26
+    ],
+    "text": "Annie started up the tall ladder, and Jack followed. They climbed into the dark tree house and looked out the window.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0284.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      330,
+      12,
+      616,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0285",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      27
+    ],
+    "text": "The knight was riding toward the outer wall. They saw him go through the outer gate.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0285.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      645,
+      12,
+      931,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0286",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      28
+    ],
+    "text": "Clouds started to cover the moon again. For a brief moment, Jack thought he saw the knight’s armor gleaming on the top of a hill beyond the castle.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0286.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      961,
+      11,
+      1250,
+      300
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0287",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      29
+    ],
+    "text": "The clouds covered the moon completely. And a black mist swallowed the land.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0287.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      11,
+      329,
+      301,
+      613
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0288",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      30,
+      31
+    ],
+    "text": "“He’s gone,” whispered Annie. Jack shivered in his wet clothes as he kept staring at the blackness.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0288.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      330,
+      329,
+      616,
+      613
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0289",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      32
+    ],
+    "text": "“I’m cold,” said Annie. “Where’s the Pennsylvania book?”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0289.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      645,
+      329,
+      931,
+      613
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0290",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      33
+    ],
+    "text": "Jack heard Annie fumble in the darkness. He kept looking out the window.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0290.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      961,
+      329,
+      1250,
+      613
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0291",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      34
+    ],
+    "text": "“I think this is it,” said Annie. “I feel a silk bookmark.”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0291.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      11,
+      642,
+      301,
+      915
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0292",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      35
+    ],
+    "text": "Jack was only half-listening. He was hoping to see the knight’s armor gleam again in the distance.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0292.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      330,
+      642,
+      616,
+      915
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0293",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      36
+    ],
+    "text": "“Okay. I’m going to use this,” said Annie. “Because I think it’s the right one. Here goes. Okay. I’m pointing. I’m going to wish. I wish we could go to Frog Creek!”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0293.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      645,
+      642,
+      931,
+      915
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0294",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      37
+    ],
+    "text": "Jack heard the wind begin to blow. Softly at first.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0294.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      961,
+      642,
+      1250,
+      915
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0295",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      38,
+      39
+    ],
+    "text": "“I hope I pointed to the right picture in the right book,” said Annie. “What?” Jack looked back at her. “Right picture? Right book?”",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0295.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      11,
+      945,
+      300,
+      1231
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0296",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      40
+    ],
+    "text": "The tree house began to rock. The wind got louder and louder.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0296.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      330,
+      945,
+      616,
+      1231
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0297",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      41
+    ],
+    "text": "“I hope it wasn’t the dinosaur book!” said Annie.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0297.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      645,
+      945,
+      931,
+      1233
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
+  },
+  {
+    "id": "mth02-scene-0298",
+    "chapter": 9,
+    "part": 1,
+    "paragraphs": [
+      42
+    ],
+    "text": "“Stop!” Jack shouted at the tree house.",
+    "status": "integrated",
+    "asset": "assets/mth02-scene-0298.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      961,
+      945,
+      1250,
+      1233
+    ],
+    "review": "Visual sequence and detected-boundary overlay reviewed; edge crops inspected."
   }
 ]
